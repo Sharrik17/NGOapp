@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367266315363",
+    "firebase_url": "https://sannapkins.firebaseio.com",
+    "project_id": "sannapkins",
+    "storage_bucket": "sannapkins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367266315363:android:f5fcce4b7c87f1e61f4c56",
+        "android_client_info": {
+          "package_name": "com.example.napkinsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367266315363-00sinmd4aam31uvscro1aa1e2d6q065o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.napkinsapp",
+            "certificate_hash": "9d82a1d8611b6451b734ed1fdc397c8a00e13da6"
+          }
+        },
+        {
+          "client_id": "367266315363-ebcn55bqmbtggjms9q9k89fvi117tjq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtyKdo9MGIQiu-5LUe7COpbgZ20svjmdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367266315363-ebcn55bqmbtggjms9q9k89fvi117tjq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
