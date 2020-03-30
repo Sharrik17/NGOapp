@@ -46,10 +46,10 @@
         android:layout_height="57dp"
         android:background="#F3F0F5"
         android:ems="10"
-        android:textSize="25sp"
         android:inputType="phone"
-        android:textColor="@android:color/black"
         android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.808"
@@ -64,8 +64,8 @@
         android:layout_height="47dp"
         android:background="#F3F0F5"
         android:ems="10"
-        android:textAlignment="center"
         android:inputType="textPersonName"
+        android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -81,9 +81,9 @@
         android:layout_height="147dp"
         android:background="#F3F0F5"
         android:ems="10"
-        android:textAlignment="viewStart"
         android:gravity="start|top"
         android:inputType="textMultiLine"
+        android:textAlignment="viewStart"
         android:textColor="@android:color/black"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -185,11 +185,11 @@
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.051"
+        app:layout_constraintHorizontal_bias="0.057"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
 
-        app:layout_constraintVertical_bias="0.554" />
+        app:layout_constraintVertical_bias="0.573" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
