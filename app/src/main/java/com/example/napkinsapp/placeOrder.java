@@ -177,6 +177,8 @@ public class placeOrder extends AppCompatActivity {
         c1.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                t1.setText("0");
+                tc1=0;
                 if(c1.isChecked())
                     p1.setEnabled(true);
                 else
@@ -187,6 +189,8 @@ public class placeOrder extends AppCompatActivity {
         c2.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                t2.setText("0");
+                tc2=0;
                 if(c2.isChecked())
                     p2.setEnabled(true);
                 else
@@ -197,6 +201,8 @@ public class placeOrder extends AppCompatActivity {
         c3.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                t3.setText("0");
+                tc3=0;
                 if(c3.isChecked())
                     p3.setEnabled(true);
                 else
@@ -207,6 +213,8 @@ public class placeOrder extends AppCompatActivity {
         c4.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                t4.setText("0");
+                tc4=0;
                 if(c4.isChecked())
                     p4.setEnabled(true);
                 else
@@ -217,6 +225,8 @@ public class placeOrder extends AppCompatActivity {
         c5.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                t5.setText("0");
+                tc5=0;
                 if(c5.isChecked())
                     p5.setEnabled(true);
                 else
@@ -357,6 +367,8 @@ public class placeOrder extends AppCompatActivity {
         c6.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                t6.setText("0");
+                tc6=0;
                 if(c6.isChecked())
                     p6.setEnabled(true);
                 else
@@ -367,6 +379,8 @@ public class placeOrder extends AppCompatActivity {
         c7.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                t7.setText("0");
+                tc7=0;
                 if(c7.isChecked())
                     p7.setEnabled(true);
                 else
@@ -377,6 +391,8 @@ public class placeOrder extends AppCompatActivity {
         c8.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                t8.setText("0");
+                tc8=0;
                 if(c8.isChecked())
                     p8.setEnabled(true);
                 else
@@ -387,6 +403,8 @@ public class placeOrder extends AppCompatActivity {
         c9.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                t9.setText("0");
+                tc9=0;
                 if(c9.isChecked())
                     p9.setEnabled(true);
                 else
@@ -397,6 +415,8 @@ public class placeOrder extends AppCompatActivity {
         c10.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+                t10.setText("0");
+                tc10=0;
                 if(c10.isChecked())
                     p10.setEnabled(true);
                 else
